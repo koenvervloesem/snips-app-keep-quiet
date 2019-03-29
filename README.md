@@ -6,6 +6,8 @@ With this [Snips](https://snips.ai/) app, you can ask your assistant to stop rep
 
 The easiest way to install this app is by adding the Snips app [Keep quiet](TODO) to your assistant in the [Snips Console](https://console.snips.ai).
 
+To be able to use this app, you need Snips 1.1.2 (0.62.3).
+
 ## Usage
 
 This app recognizes the following intents:
