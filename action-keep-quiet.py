@@ -25,21 +25,34 @@ class KeepQuiet(HermesSnipsApp):
     def quiet(self, hermes, intent_message):
         """Handle the intent Quiet."""
 
+        # Get all the intents from the assistant and remove the one to talk
+        # again.
         intents = [intent['id'] for intent in self.assistant['intents']]
         intents.remove(i18n.INTENT_TALK)
 
-        dialogue_conf = DialogueConfiguration().disable_intents(intents).enable_intent(i18n.INTENT_TALK)
+        dialogue_conf = DialogueConfiguration().disable_intents(intents) \
+                                               .enable_intent(i18n.INTENT_TALK)
         hermes.configure_dialogue(dialogue_conf)
 
-        hermes.publish_end_session(intent_message.session_id, i18n.RESULT_QUIET)
+        hermes.publish_end_session(intent_message.session_id,
+                                   i18n.RESULT_QUIET)
 
     @intent(i18n.INTENT_TALK)
     def talk(self, hermes, intent_message):
         """Handle the intent Talk."""
 
-        intents = [intent['id'] for intent in self.assistant['intents']]
+        # Get all the intents from the assistant that are enabled by default.
+        enabled_intents = [intent['id']
+                           for intent in self.assistant['intents']
+                           if intent['enabledByDefault']]
 
-        dialogue_conf = DialogueConfiguration().enable_intents(intents)
+        # Get all the intents from the assistant that are disabled by default.
+        disabled_intents = [intent['id']
+                           for intent in self.assistant['intents']
+                           if not intent['enabledByDefault']]
+
+        dialogue_conf = DialogueConfiguration().enable_intents(enabled_intents) \
+                                               .disable_intents(disabled_intents)
         hermes.configure_dialogue(dialogue_conf)
 
         hermes.publish_end_session(intent_message.session_id, i18n.RESULT_TALK)
