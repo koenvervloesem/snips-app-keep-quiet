@@ -4,7 +4,6 @@ This module contains a Snips app that makes the Snips assistant be quiet.
 """
 
 import importlib
-from pathlib import Path
 
 from hermes_python.ontology.dialogue import DialogueConfiguration
 from snipskit.config import AssistantConfig
