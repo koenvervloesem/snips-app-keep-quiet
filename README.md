@@ -6,7 +6,10 @@ With this [Snips](https://snips.ai/) app, you can ask your assistant to stop rep
 
 ## Installation
 
-The easiest way to install this app is by adding the Snips app [Keep quiet](https://console.snips.ai/store/en/skill_134O6Yb4K6b) to your assistant in the [Snips Console](https://console.snips.ai).
+The easiest way to install this app is by adding the corresponding Snips app to your assistant in the [Snips Console](https://console.snips.ai):
+
+*   English: [Keep quiet](https://console.snips.ai/store/en/skill_134O6Yb4K6b) 
+*   German: [Auszeit!](https://console.snips.ai/store/de/skill_zmmENzQnqaQ)
 
 To be able to use this app, you need Snips 1.1.2 (0.62.3).
 
@@ -14,8 +17,8 @@ To be able to use this app, you need Snips 1.1.2 (0.62.3).
 
 This app recognizes the following intents:
 
-*   koan:Quiet - You ask your assistant to stop replying to your voice commands. 
-*   koan:Talk - You ask your assistant to talk again. 
+*   Quiet - You ask your assistant to stop replying to your voice commands. 
+*   Talk - You ask your assistant to talk again. 
 
 ## Copyright
 
