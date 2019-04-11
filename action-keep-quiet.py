@@ -6,12 +6,12 @@ This module contains a Snips app that makes the Snips assistant be quiet.
 import importlib
 
 from hermes_python.ontology.dialogue import DialogueConfiguration
-from snipskit.config import AssistantConfig
+from snipskit.apps import SnipsAppMixin
 from snipskit.hermes.apps import HermesSnipsApp
 from snipskit.hermes.decorators import intent
 
 # Use the assistant's language.
-i18n = importlib.import_module('translations.' + AssistantConfig()['language'])
+i18n = importlib.import_module('translations.' + SnipsAppMixin().assistant['language'])
 
 
 class KeepQuiet(HermesSnipsApp):
@@ -47,14 +47,15 @@ class KeepQuiet(HermesSnipsApp):
 
         # Get all the intents from the assistant that are disabled by default.
         disabled_intents = [intent['id']
-                           for intent in self.assistant['intents']
-                           if not intent['enabledByDefault']]
+                            for intent in self.assistant['intents']
+                            if not intent['enabledByDefault']]
 
         dialogue_conf = DialogueConfiguration().enable_intents(enabled_intents) \
                                                .disable_intents(disabled_intents)
         hermes.configure_dialogue(dialogue_conf)
 
         hermes.publish_end_session(intent_message.session_id, i18n.RESULT_TALK)
+
 
 if __name__ == "__main__":
     KeepQuiet()
