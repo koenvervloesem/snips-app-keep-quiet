@@ -1,2 +1,2 @@
-snipskit[hermes]~=0.4.0
+snipskit[hermes]==0.5.3
 hermes_python~=0.4.0
