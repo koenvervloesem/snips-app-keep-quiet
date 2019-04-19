@@ -34,6 +34,19 @@ class KeepQuiet(HermesSnipsApp):
         except AttributeError: # SLOT_TYPE_INTENT not defined for this language
             pass
 
+    def intent_id_from_name(self, intent_name):
+        """Return the id of an intent for which the name is given.
+        
+        For instance, if the name is FlipCoin the returned id is koan:FlipCoin.
+
+        If there's more than one intent with the same name, the first one is
+        returned.
+        """
+        intents = [intent['id'] for intent in self.assistant['intents']
+                   if intent['name'] == intent_name]
+
+        return intents[0]
+
     @intent(i18n.INTENT_QUIET)
     def quiet(self, hermes, intent_message):
         """Handle the intent Quiet."""
@@ -74,8 +87,9 @@ class KeepQuiet(HermesSnipsApp):
     def enable_intent(self, hermes, intent_message):
         """Handle the intent EnableIntent."""
         intent = intent_message.slots.intent.first().value
+        intent_id = self.intent_id_from_name(intent)
 
-        dialogue_conf = DialogueConfiguration().enable_intent(intent)
+        dialogue_conf = DialogueConfiguration().enable_intent(intent_id)
         hermes.configure_dialogue(dialogue_conf)
 
         hermes.publish_end_session(intent_message.session_id,
@@ -85,8 +99,9 @@ class KeepQuiet(HermesSnipsApp):
     def disable_intent(self, hermes, intent_message):
         """Handle the intent DisableIntent."""
         intent = intent_message.slots.intent.first().value
+        intent_id = self.intent_id_from_name(intent)
 
-        dialogue_conf = DialogueConfiguration().disable_intent(intent)
+        dialogue_conf = DialogueConfiguration().disable_intent(intent_id)
         hermes.configure_dialogue(dialogue_conf)
 
         hermes.publish_end_session(intent_message.session_id,
