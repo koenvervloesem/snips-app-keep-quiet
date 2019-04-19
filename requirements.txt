@@ -1,2 +1,2 @@
-snipskit[hermes]==0.5.3
+snipskit[hermes,mqtt]~=0.6.0
 hermes_python~=0.4.0
