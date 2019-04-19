@@ -27,10 +27,12 @@ class KeepQuiet(HermesSnipsApp):
         """Initialize the app."""
 
         # Inject the names of the installed intents.
-
-        intents = [intent['name'] for intent in self.assistant['intents']]
-        injections = {'operations': [['add', {i18n.SLOT_TYPE_INTENT: intents}]]}
-        publish_single(self.snips.mqtt, INJECTION_PERFORM, injections)
+        try:
+            intents = [intent['name'] for intent in self.assistant['intents']]
+            injections = {'operations': [['add', {i18n.SLOT_TYPE_INTENT: intents}]]}
+            publish_single(self.snips.mqtt, INJECTION_PERFORM, injections)
+        except AttributeError: # SLOT_TYPE_INTENT not defined for this language
+            pass
 
     @intent(i18n.INTENT_QUIET)
     def quiet(self, hermes, intent_message):
@@ -77,7 +79,7 @@ class KeepQuiet(HermesSnipsApp):
         hermes.configure_dialogue(dialogue_conf)
 
         hermes.publish_end_session(intent_message.session_id,
-                                   i18n.RESULT_ENABLE_INTENT)
+                                   i18n.RESULT_ENABLE_INTENT.format(intent))
 
     @intent(i18n.INTENT_DISABLE_INTENT)
     def disable_intent(self, hermes, intent_message):
@@ -88,7 +90,7 @@ class KeepQuiet(HermesSnipsApp):
         hermes.configure_dialogue(dialogue_conf)
 
         hermes.publish_end_session(intent_message.session_id,
-                                   i18n.RESULT_DISABLE_INTENT)
+                                   i18n.RESULT_DISABLE_INTENT.format(intent))
 
 
 if __name__ == "__main__":
