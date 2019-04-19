@@ -31,21 +31,8 @@ class KeepQuiet(HermesSnipsApp):
             intents = [intent['name'] for intent in self.assistant['intents']]
             injections = {'operations': [['add', {i18n.SLOT_TYPE_INTENT: intents}]]}
             publish_single(self.snips.mqtt, INJECTION_PERFORM, injections)
-        except AttributeError: # SLOT_TYPE_INTENT not defined for this language
+        except AttributeError:  # SLOT_TYPE_INTENT not defined for this language
             pass
-
-    def intent_id_from_name(self, intent_name):
-        """Return the id of an intent for which the name is given.
-        
-        For instance, if the name is FlipCoin the returned id is koan:FlipCoin.
-
-        If there's more than one intent with the same name, the first one is
-        returned.
-        """
-        intents = [intent['id'] for intent in self.assistant['intents']
-                   if intent['name'] == intent_name]
-
-        return intents[0]
 
     @intent(i18n.INTENT_QUIET)
     def quiet(self, hermes, intent_message):
@@ -83,29 +70,45 @@ class KeepQuiet(HermesSnipsApp):
 
         hermes.publish_end_session(intent_message.session_id, i18n.RESULT_TALK)
 
-    @intent(i18n.INTENT_ENABLE_INTENT)
-    def enable_intent(self, hermes, intent_message):
-        """Handle the intent EnableIntent."""
+    # Enable and disable intents
+
+    def intent_id_from_name(self, intent_name):
+        """Return the id of an intent for which the name is given.
+
+        For instance, if the name is FlipCoin the returned id is koan:FlipCoin.
+
+        If there's more than one intent with the same name, the first one is
+        returned.
+        """
+        intents = [intent['id'] for intent in self.assistant['intents']
+                   if intent['name'] == intent_name]
+
+        return intents[0]
+
+    def enable_disable_intent(self, hermes, intent_message, action):
+        """"Enable or disable an intent.
+
+        The argument `action` can be 'enable' or 'disable'.
+        """
         intent = intent_message.slots.intent.first().value
         intent_id = self.intent_id_from_name(intent)
 
-        dialogue_conf = DialogueConfiguration().enable_intent(intent_id)
+        function = getattr(DialogueConfiguration(), action + '_intent')
+        dialogue_conf = function(intent_id)
         hermes.configure_dialogue(dialogue_conf)
 
         hermes.publish_end_session(intent_message.session_id,
-                                   i18n.RESULT_ENABLE_INTENT.format(intent))
+                                   getattr(i18n, 'RESULT_' + action.upper() + '_INTENT').format(intent))
+
+    @intent(i18n.INTENT_ENABLE_INTENT)
+    def enable_intent(self, hermes, intent_message):
+        """Handle the intent EnableIntent."""
+        self.enable_disable_intent(hermes, intent_message, 'enable')
 
     @intent(i18n.INTENT_DISABLE_INTENT)
     def disable_intent(self, hermes, intent_message):
         """Handle the intent DisableIntent."""
-        intent = intent_message.slots.intent.first().value
-        intent_id = self.intent_id_from_name(intent)
-
-        dialogue_conf = DialogueConfiguration().disable_intent(intent_id)
-        hermes.configure_dialogue(dialogue_conf)
-
-        hermes.publish_end_session(intent_message.session_id,
-                                   i18n.RESULT_DISABLE_INTENT.format(intent))
+        self.enable_disable_intent(hermes, intent_message, 'disable')
 
 
 if __name__ == "__main__":
