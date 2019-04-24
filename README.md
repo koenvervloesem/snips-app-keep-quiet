@@ -17,6 +17,8 @@ To be able to use this app, you need Snips 1.1.2 (0.62.3).
 
 This app recognizes the following intents:
 
+*   DisableIntent - You ask your assistant to disable an intent.
+*   EnableIntent - You ask your assistant to enable an intent.
 *   Quiet - You ask your assistant to stop replying to your voice commands. 
 *   Talk - You ask your assistant to talk again. 
 
