@@ -13,6 +13,8 @@ The easiest way to install this app is by adding the corresponding Snips app to 
 
 To be able to use this app, you need Snips 1.1.2 (0.62.3).
 
+For disabling and enabling intents, the `snips-injection` service should be running, because the names of the installed intents are injected in the vocabulary of Snips.
+
 ## Usage
 
 This app recognizes the following intents:
