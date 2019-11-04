@@ -1,6 +1,6 @@
 """
-Este módulo contiene el resultado de sentencias e intenciones para la versión en español
-de la aplicación Keep quiet.
+This module contains the result sentences and intents for the Spanish version
+of the Keep quiet app.
 """
 
 # Result sentences
