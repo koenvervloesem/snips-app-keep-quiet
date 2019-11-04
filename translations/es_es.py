@@ -1,6 +1,6 @@
 """
-This module contains the result sentences and intents for the English version
-of the Keep quiet app.
+Este módulo contiene el resultado de sentencias e intenciones para la versión en español
+de la aplicación Keep quiet.
 """
 
 # Result sentences
@@ -10,10 +10,10 @@ RESULT_QUIET = "Ok, permanezco en silencio."
 RESULT_TALK = "Ok, ya hablo otra vez."
 
 # Intents
-INTENT_ENABLE_INTENT = 'koan:EnableIntent'
-INTENT_DISABLE_INTENT = 'koan:DisableIntent'
-INTENT_QUIET = 'koan:Quiet'
-INTENT_TALK = 'koan:Talk'
+INTENT_ENABLE_INTENT = 'pepebc:EnableIntent'
+INTENT_DISABLE_INTENT = 'pepebc:DisableIntent'
+INTENT_QUIET = 'pepebc:Quiet'
+INTENT_TALK = 'pepebc:Talk'
 
 # Slot types
-SLOT_TYPE_INTENT = 'koan/snips-intent'
+SLOT_TYPE_INTENT = 'pepebc/snips-intent'
