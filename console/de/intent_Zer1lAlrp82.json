@@ -1,0 +1,1034 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "Höre nicht auf den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 26,
+          "end" : 31
+        },
+        "slot_id" : "VqNBxaubn"
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Höre nicht auf das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 28,
+          "end" : 33
+        },
+        "slot_id" : "VqNBxaubn"
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Höre nicht auf den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 26,
+          "end" : 31
+        },
+        "slot_id" : "VqNBxaubn"
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Reagiere nicht mehr auf das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 37,
+          "end" : 42
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 42,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere bitte nicht mehr auf das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 43,
+          "end" : 48
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte reagiere nicht mehr auf das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 43,
+          "end" : 48
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere nicht mehr auf das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 37,
+          "end" : 42
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Deaktiviere das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 30,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 21,
+          "end" : 26
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte ab",
+        "range" : {
+          "start" : 26,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " ab",
+        "range" : {
+          "start" : 32,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " ab",
+        "range" : {
+          "start" : 32,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 21,
+          "end" : 26
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte aus",
+        "range" : {
+          "start" : 26,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " aus",
+        "range" : {
+          "start" : 32,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " aus",
+        "range" : {
+          "start" : 32,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 21,
+          "end" : 26
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " ab",
+        "range" : {
+          "start" : 26,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 21,
+          "end" : 26
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " aus",
+        "range" : {
+          "start" : 26,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte deaktiviere das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 31,
+          "end" : 36
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Deaktiviere bitte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 31,
+          "end" : 36
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Deaktiviere das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere nicht mehr auf den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 35,
+          "end" : 40
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 40,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere bitte nicht mehr auf den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 41,
+          "end" : 46
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte reagiere nicht mehr auf den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 41,
+          "end" : 46
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere nicht mehr auf den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 35,
+          "end" : 40
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Deaktiviere den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 23,
+          "end" : 28
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 28,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte ab",
+        "range" : {
+          "start" : 24,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " ab",
+        "range" : {
+          "start" : 30,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " ab",
+        "range" : {
+          "start" : 30,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte aus",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " aus",
+        "range" : {
+          "start" : 30,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " aus",
+        "range" : {
+          "start" : 30,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " ab",
+        "range" : {
+          "start" : 24,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      }, {
+        "text" : " aus",
+        "range" : {
+          "start" : 24,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte deaktiviere den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 29,
+          "end" : 34
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Deaktiviere bitte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 29,
+          "end" : 34
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Deaktiviere den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 23,
+          "end" : 28
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere nicht mehr auf den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 35,
+          "end" : 40
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : true
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 40,
+          "end" : 46
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Reagiere bitte nicht mehr auf den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 41,
+          "end" : 46
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : true
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Bitte reagiere nicht mehr auf den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 41,
+          "end" : 46
+        },
+        "slot_id" : "VqNBxaubn",
+        "from_autotagging" : true
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Reagiere nicht mehr auf den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 35,
+          "end" : 40
+        },
+        "slot_id" : "VqNBxaubn"
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Deaktiviere den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 23,
+          "end" : 28
+        },
+        "slot_id" : "VqNBxaubn"
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 28,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "VqNBxaubn"
+      }, {
+        "text" : " bitte ab",
+        "range" : {
+          "start" : 24,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "VqNBxaubn"
+      }, {
+        "text" : " ab",
+        "range" : {
+          "start" : 30,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "VqNBxaubn"
+      }, {
+        "text" : " ab",
+        "range" : {
+          "start" : 30,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "VqNBxaubn"
+      }, {
+        "text" : " bitte aus",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "VqNBxaubn"
+      }, {
+        "text" : " aus",
+        "range" : {
+          "start" : 30,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "VqNBxaubn"
+      }, {
+        "text" : " aus",
+        "range" : {
+          "start" : 30,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "VqNBxaubn"
+      }, {
+        "text" : " ab",
+        "range" : {
+          "start" : 24,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "VqNBxaubn"
+      }, {
+        "text" : " aus",
+        "range" : {
+          "start" : 24,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Bitte deaktiviere den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 29,
+          "end" : 34
+        },
+        "slot_id" : "VqNBxaubn"
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Deaktiviere bitte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 29,
+          "end" : 34
+        },
+        "slot_id" : "VqNBxaubn"
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Deaktiviere den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 23,
+          "end" : 28
+        },
+        "slot_id" : "VqNBxaubn"
+      } ]
+    } ]
+  },
+  "id" : "intent_Zer1lAlrp82",
+  "config" : {
+    "displayName" : "DisableIntent",
+    "name" : "DisableIntent",
+    "description" : "Disable an Intent",
+    "language" : "de",
+    "slots" : [ {
+      "name" : "Intent",
+      "id" : "VqNBxaubn",
+      "entityId" : "entity_gx30Y1Yn5ol",
+      "missingQuestion" : "",
+      "required" : false
+    } ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "Höre nicht auf den Intent Quiet", "Höre nicht auf das Kommando Quiet", "Höre nicht auf den Befehl Quiet", "Reagiere nicht mehr auf das Kommando Quiet bitte", "Reagiere bitte nicht mehr auf das Kommando Quiet", "Bitte reagiere nicht mehr auf das Kommando Quiet", "Reagiere nicht mehr auf das Kommando Quiet", "Deaktiviere das Kommando Quiet bitte", "Schalte das Kommando Quiet bitte ab", "Schalte bitte das Kommando Quiet ab" ]
+  }
+}

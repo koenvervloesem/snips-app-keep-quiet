@@ -1,0 +1,982 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "Aktiviere bitte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 29,
+          "end" : 34
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 23,
+          "end" : 28
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte aktiviere das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 29,
+          "end" : 34
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte aktiviere wieder das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 36,
+          "end" : 41
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte reagiere wieder auf das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 39,
+          "end" : 44
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 32,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder an",
+        "range" : {
+          "start" : 32,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Jetzt wieder auf das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 30,
+          "end" : 35
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " reagieren",
+        "range" : {
+          "start" : 35,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere bitte wieder auf das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 39,
+          "end" : 44
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere jetzt wieder auf das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 39,
+          "end" : 44
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere wieder auf das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 33,
+          "end" : 38
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder an",
+        "range" : {
+          "start" : 32,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 21,
+          "end" : 26
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 26,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 21,
+          "end" : 26
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte wieder an",
+        "range" : {
+          "start" : 26,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 21,
+          "end" : 26
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder an",
+        "range" : {
+          "start" : 26,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Kommando ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 21,
+          "end" : 26
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder ein",
+        "range" : {
+          "start" : 26,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere bitte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 21,
+          "end" : 26
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte aktiviere den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte aktiviere wieder den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 34,
+          "end" : 39
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte reagiere wieder auf den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 37,
+          "end" : 42
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 30,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder an",
+        "range" : {
+          "start" : 30,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Jetzt wieder auf den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 28,
+          "end" : 33
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " reagieren",
+        "range" : {
+          "start" : 33,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere bitte wieder auf den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 37,
+          "end" : 42
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere jetzt wieder auf den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 37,
+          "end" : 42
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere wieder auf den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 31,
+          "end" : 36
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder an",
+        "range" : {
+          "start" : 30,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 24,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte wieder an",
+        "range" : {
+          "start" : 24,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder an",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder ein",
+        "range" : {
+          "start" : 24,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere bitte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 21,
+          "end" : 26
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte aktiviere den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte aktiviere wieder den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 34,
+          "end" : 39
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte reagiere wieder auf den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 37,
+          "end" : 42
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 30,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder an",
+        "range" : {
+          "start" : 30,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Jetzt wieder auf den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 28,
+          "end" : 33
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " reagieren",
+        "range" : {
+          "start" : 33,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere bitte wieder auf den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 37,
+          "end" : 42
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere jetzt wieder auf den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 37,
+          "end" : 42
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reagiere wieder auf den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 31,
+          "end" : 36
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 25,
+          "end" : 30
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder an",
+        "range" : {
+          "start" : 30,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 24,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte wieder an",
+        "range" : {
+          "start" : 24,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder an",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Befehl ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "0a1jX9ZUA",
+        "from_autotagging" : false
+      }, {
+        "text" : " wieder ein",
+        "range" : {
+          "start" : 24,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    } ]
+  },
+  "id" : "intent_GYkQdo0bK57",
+  "config" : {
+    "displayName" : "EnableIntent",
+    "name" : "EnableIntent",
+    "description" : "Activate an intent",
+    "language" : "de",
+    "slots" : [ {
+      "name" : "intent",
+      "id" : "0a1jX9ZUA",
+      "entityId" : "entity_gx30Y1Yn5ol",
+      "missingQuestion" : "",
+      "required" : false
+    } ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "Aktiviere bitte das Kommando Quiet", "Aktiviere das Kommando Quiet", "Bitte aktiviere das Kommando Quiet", "Bitte aktiviere wieder das Kommando Quiet", "Bitte reagiere wieder auf das Kommando Quiet", "Bitte schalte das Kommando Quiet an", "Bitte schalte das Kommando Quiet wieder an", "Jetzt wieder auf das Kommando Quiet reagieren", "Reagiere bitte wieder auf das Kommando Quiet", "Reagiere jetzt wieder auf das Kommando Quiet" ]
+  }
+}

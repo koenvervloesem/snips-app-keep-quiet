@@ -1,0 +1,352 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "du hast lange genug nicht mit mir geredet",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "rede bitte mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "red bitte mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "rede bitte mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "red mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "rede mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "kannst du mir wieder antworten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "kannst du mir bitte wieder antworten",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du kannst mir bitte wieder antworten",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du kannst mir wieder antworten",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "kannst du bitte wieder mit mir reden",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "kannst du bitte wieder mit mir sprechen",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du kannst wieder mit mir sprechen",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "die auszeit ist rum",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "deine auszeit ist rum",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "es wird zeit deine auszeit zu beenden",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "es wird zeit dass du wieder mit mir redest",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du hast lange genug nichts gesagt",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du hast lange genug nichts geredet",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "spreche wieder mit mir bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte rede doch wieder mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "rede doch bitte wieder mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte rede wieder mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte sprich wieder mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "die Auszeit ist vorbei",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "deine Auszeit ist vorbei",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du darfst bitte wieder mit mir reden",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du darfst wieder mit mir reden",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du darfst wieder sprechen",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "spreche wieder mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du kannst wieder mit mir reden",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "kannst wieder mit mir reden",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "kannst jetzt wieder mit mir reden",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du kannst jetzt wieder mit mir reden",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "jetzt kannst du wieder mit mir reden",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du darfst wieder reden",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "rede wieder mit mir bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "red wieder mit mir bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "red bitte wieder mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte red wieder mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "rede bitte wieder mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "rede wieder mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_GwwKO780YbN",
+  "config" : {
+    "displayName" : "Talk",
+    "name" : "Talk",
+    "description" : "Start talking again",
+    "language" : "de",
+    "slots" : [ ],
+    "enabledByDefault" : false,
+    "exampleQueries" : [ "du hast lange genug nicht mit mir geredet", "rede bitte mit mir", "red bitte mit mir", "rede bitte mit mir", "red mit mir", "rede mit mir", "kannst du mir wieder antworten bitte", "kannst du mir bitte wieder antworten", "du kannst mir bitte wieder antworten", "du kannst mir wieder antworten" ]
+  }
+}

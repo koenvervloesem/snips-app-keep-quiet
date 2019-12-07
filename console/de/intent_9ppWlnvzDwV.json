@@ -1,0 +1,416 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "hör auf mir zu antworten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "hör auf mir zu antworten",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "hör bitte auf mir zu antworten",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "höre auf mir zu antworten",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte höre auf mir zu antworten",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte nimm dir ne auszeit",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nimm dir ne auszeit bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nimm dir ne auszeit",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nimm dir bitte eine auszeit",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nimm dir bitte ne auszeit",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nimm dir ne auszeit",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sei endlich mal leise",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sei endlich leise",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sei bitte endlich mal ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sei endlich ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nimm dir eine auszeit bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "auszeit",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "du hast eine auszeit",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nimm dir eine auszeit",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte sei doch mal ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sei doch mal ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "jetzt sei endlich mal ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "jetzt sei mal ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "rede nicht mit mir bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "rede bitte nicht mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte rede nicht mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "rede nicht mehr mit mir",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "rede nicht mehr",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "ich rede nicht mit dir",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sei leise bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sei bitte leise",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte sei leise",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sei leise",
+        "range" : {
+          "start" : 0,
+          "end" : 9
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "höre auf zu reden bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "höre bitte auf zu reden",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte höre auf zu reden",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "hör auf zu reden bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "hör bitte auf zu reden",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte hör auf zu reden",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "hör auf zu reden",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte sei jetzt mal ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sei jetzt bitte mal ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sei jetzt mal ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte halte die klappe",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "halte bitte die klappe",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "halte die klappe",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "halt die klappe",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte sei ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Sei bitte ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Sei ruhig",
+        "range" : {
+          "start" : 0,
+          "end" : 9
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_9ppWlnvzDwV",
+  "config" : {
+    "displayName" : "Quiet",
+    "name" : "Quiet",
+    "description" : "",
+    "language" : "de",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "hör auf mir zu antworten bitte", "hör auf mir zu antworten", "hör bitte auf mir zu antworten", "höre auf mir zu antworten", "bitte höre auf mir zu antworten", "bitte nimm dir ne auszeit", "nimm dir ne auszeit bitte", "nimm dir ne auszeit", "nimm dir bitte eine auszeit", "nimm dir bitte ne auszeit" ]
+  }
+}
