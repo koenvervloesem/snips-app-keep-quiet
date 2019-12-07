@@ -1,0 +1,312 @@
+{
+  "customIntentData" : {
+    "language" : "en",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "silence, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "silence, please",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "silence",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "zip your mouth, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "shut your mouth, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "keep silent, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "keep quiet, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "be silent, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "be quiet, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "shut up, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "silent, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "quiet, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please zip your mouth",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please shut your mouth",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please keep silent",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please keep quiet",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please be silent",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please be quiet",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please shut up",
+        "range" : {
+          "start" : 0,
+          "end" : 14
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "zip your mouth, please",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "shut your mouth, please",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "keep silent, please",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "keep quiet, please",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "be silent, please",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "be quiet, please",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "shut up, please",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "zip your mouth",
+        "range" : {
+          "start" : 0,
+          "end" : 14
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "silent, please",
+        "range" : {
+          "start" : 0,
+          "end" : 14
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "quiet, please",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "shut your mouth",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "keep silent",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "keep quiet",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "be silent",
+        "range" : {
+          "start" : 0,
+          "end" : 9
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "be quiet",
+        "range" : {
+          "start" : 0,
+          "end" : 8
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "shut up",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "silent",
+        "range" : {
+          "start" : 0,
+          "end" : 6
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "quiet",
+        "range" : {
+          "start" : 0,
+          "end" : 5
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_0Ox3rXxYX98",
+  "config" : {
+    "displayName" : "Quiet",
+    "name" : "Quiet",
+    "description" : "You ask your assistant to stop replying to your voice commands.",
+    "language" : "en",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "silence, will you?", "silence, please", "silence", "zip your mouth, will you?", "shut your mouth, will you?", "keep silent, will you?", "keep quiet, will you?", "be silent, will you?", "be quiet, will you?", "shut up, will you?" ]
+  }
+}

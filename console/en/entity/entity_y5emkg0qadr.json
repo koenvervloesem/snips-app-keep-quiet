@@ -1,0 +1,21 @@
+{
+  "name" : "koan/snips-intent",
+  "useSynonyms" : true,
+  "data" : [ {
+    "value" : "Quiet",
+    "synonyms" : [ ]
+  }, {
+    "value" : "Talk",
+    "synonyms" : [ ]
+  }, {
+    "value" : "EnableIntent",
+    "synonyms" : [ ]
+  }, {
+    "value" : "DisableIntent",
+    "synonyms" : [ ]
+  } ],
+  "automaticallyExtensible" : false,
+  "id" : "entity_y5emkg0qadr",
+  "language" : "en",
+  "entityType" : "custom"
+}

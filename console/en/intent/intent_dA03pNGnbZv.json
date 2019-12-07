@@ -1,0 +1,761 @@
+{
+  "customIntentData" : {
+    "language" : "en",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "I want you to turn off the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 34,
+          "end" : 39
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "turn off the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 20,
+          "end" : 25
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 25,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you turn off the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 28,
+          "end" : 33
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "turn off the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 20,
+          "end" : 25
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 25,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please turn off the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "turn off the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 20,
+          "end" : 25
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to turn off the ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 32,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "turn off the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 13,
+          "end" : 18
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent, will you?",
+        "range" : {
+          "start" : 18,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you turn off the ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 21,
+          "end" : 26
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 26,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "turn off the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 13,
+          "end" : 18
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent, please",
+        "range" : {
+          "start" : 18,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please turn off the ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 20,
+          "end" : 25
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 25,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "turn off the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 13,
+          "end" : 18
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 18,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to deactivate the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 36,
+          "end" : 41
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "deactivate the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 22,
+          "end" : 27
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 27,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you deactivate the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 30,
+          "end" : 35
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "deactivate the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 22,
+          "end" : 27
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 27,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please deactivate the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 29,
+          "end" : 34
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "deactivate the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 22,
+          "end" : 27
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to deactivate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 29,
+          "end" : 34
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 34,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "deactivate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 15,
+          "end" : 20
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent, will you?",
+        "range" : {
+          "start" : 20,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you deactivate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 23,
+          "end" : 28
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 28,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "deactivate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 15,
+          "end" : 20
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent, please",
+        "range" : {
+          "start" : 20,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please deactivate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 22,
+          "end" : 27
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 27,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "deactivate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 15,
+          "end" : 20
+        },
+        "slot_id" : "IplvPNyXB",
+        "from_autotagging" : false
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 20,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to disable the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 33,
+          "end" : 38
+        },
+        "slot_id" : "IplvPNyXB"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "disable the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "IplvPNyXB"
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 24,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you disable the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 27,
+          "end" : 32
+        },
+        "slot_id" : "IplvPNyXB"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "disable the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "IplvPNyXB"
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 24,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please disable the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 26,
+          "end" : 31
+        },
+        "slot_id" : "IplvPNyXB"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "disable the intent ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "IplvPNyXB"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to disable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 26,
+          "end" : 31
+        },
+        "slot_id" : "IplvPNyXB"
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 31,
+          "end" : 38
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "disable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 12,
+          "end" : 17
+        },
+        "slot_id" : "IplvPNyXB"
+      }, {
+        "text" : " intent, will you?",
+        "range" : {
+          "start" : 17,
+          "end" : 35
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you disable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 20,
+          "end" : 25
+        },
+        "slot_id" : "IplvPNyXB"
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 25,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "disable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 12,
+          "end" : 17
+        },
+        "slot_id" : "IplvPNyXB"
+      }, {
+        "text" : " intent, please",
+        "range" : {
+          "start" : 17,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please disable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 19,
+          "end" : 24
+        },
+        "slot_id" : "IplvPNyXB"
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 24,
+          "end" : 31
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "disable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      }, {
+        "text" : "Quiet",
+        "range" : {
+          "start" : 12,
+          "end" : 17
+        },
+        "slot_id" : "IplvPNyXB"
+      }, {
+        "text" : " intent",
+        "range" : {
+          "start" : 17,
+          "end" : 24
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_dA03pNGnbZv",
+  "config" : {
+    "displayName" : "DisableIntent",
+    "name" : "DisableIntent",
+    "description" : "The user asks to disable an intent.",
+    "language" : "en",
+    "slots" : [ {
+      "name" : "intent",
+      "id" : "IplvPNyXB",
+      "entityId" : "entity_y5emkg0qadr",
+      "missingQuestion" : "Which intent do you want to disable?",
+      "required" : true,
+      "description" : "The intent the user wants to disable."
+    } ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "I want you to turn off the intent Quiet", "turn off the intent Quiet, will you?", "can you turn off the intent Quiet", "turn off the intent Quiet, please", "please turn off the intent Quiet", "turn off the intent Quiet", "I want you to turn off the Quiet intent", "turn off the Quiet intent, will you?", "can you turn off the Quiet intent", "turn off the Quiet intent, please" ]
+  }
+}

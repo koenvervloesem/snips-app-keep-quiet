@@ -1,0 +1,19 @@
+{
+  "name" : "Keep quiet",
+  "repository" : "https://github.com/koenvervloesem/snips-app-keep-quiet",
+  "changelog" : "Added link to the French version of the app",
+  "description" : "You can ask your assistant to stop replying to your voice commands until you ask it to talk to you again.\n\nSome examples:\n\n- \"Be quiet\" -> Snips ignores all intents except the one to ask it to talk again.\n- \"Talk again\" -> Snips listens to all intents again that are enabled by default.\n- \"Disable the RepeatAction intent\" -> Snips disables the RepeatAction intent.\n- \"Enable the FlipCoin intent\" -> Snips enables the FlipCoin intent.\n\nTo be able to use this app, you need Snips 1.1.2 (0.62.3).\n\nFor disabling and enabling intents, the `snips-injection` service should be running, because the names of the installed intents are injected in the vocabulary of Snips.\n\nMore information can be found on the GitHub page of the actions code: https://github.com/koenvervloesem/snips-app-keep-quiet\n\nIf you have some suggestions for improvements, such as new training examples or new functionality, or if you found a bug, feel free to contact me at koen@vervloesem.eu and I'll be happy to add or correct it. And if you like my app, please rate it :-)\n\nThis app also exists in:\n\n- French: https://console.snips.ai/store/fr/skill_8lyE0KYQ1zr\n- German: https://console.snips.ai/store/de/skill_zmmENzQnqaQ",
+  "skillType" : "GITHUB",
+  "intents" : [ {
+    "id" : "intent_0Ox3rXxYX98"
+  }, {
+    "id" : "intent_4mzZ2Vv7Yaa"
+  }, {
+    "id" : "intent_bG4v2ogo4Oe"
+  }, {
+    "id" : "intent_dA03pNGnbZv"
+  } ],
+  "id" : "skill_134O6Yb4K6b",
+  "language" : "en",
+  "imageUrl" : "https://console.snips.ai/images/bundles/bundle-yoga.svg"
+}
