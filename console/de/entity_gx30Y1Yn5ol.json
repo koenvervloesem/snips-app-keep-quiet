@@ -1,0 +1,21 @@
+{
+  "name" : "Philipp/snips-intent",
+  "useSynonyms" : true,
+  "data" : [ {
+    "value" : "Quiet",
+    "synonyms" : [ ]
+  }, {
+    "value" : "Talk",
+    "synonyms" : [ ]
+  }, {
+    "value" : "EnableIntent",
+    "synonyms" : [ ]
+  }, {
+    "value" : "DisableIntent",
+    "synonyms" : [ ]
+  } ],
+  "automaticallyExtensible" : false,
+  "id" : "entity_gx30Y1Yn5ol",
+  "language" : "de",
+  "entityType" : "custom"
+}
