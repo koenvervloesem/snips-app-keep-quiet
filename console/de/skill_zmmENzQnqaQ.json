@@ -1,0 +1,19 @@
+{
+  "name" : "Auszeit!",
+  "repository" : "https://github.com/koenvervloesem/snips-app-keep-quiet",
+  "changelog" : "Save SNIPS! https://www.gopetition.com/petitions/let-snips-makers-live.html\nSign today, or everything will be shut down! :(",
+  "description" : "Save SNIPS! https://www.gopetition.com/petitions/let-snips-makers-live.html\nSign today, or everything will be shut down! :(\n\nZeit für eine Auszeit? Sag doch mal deinem Assistenten, dass er nicht auf deine Befehle reagieren soll!\nErst wenn du explizit danach fragst, wirst du wieder Antworten erhalten.\n\n- \"Sei ruhig\" -> Snips ignoriert alle Anfragen ausser:\n- \"rede wieder mit mir\" -> Snips reagiert wieder auf alle Anfragen!\n- \"Aktiviere den Befehl Quiet\" -> Schaltet einen Befehl einer App ein, in diesem Fall den \"Quiet\" Befehl zum ruhig sein.\n- \"Schalte den Befehl Quiet aus\" -> Schaltet einen Befehl aus, so das Snips nicht mehr darauf reagiert.\n\nUm diese App zu verwenden benötigst du Snips 1.1.2 (0.62.3).\n\nMehr Informationen findest du auf GitHub: https://github.com/koenvervloesem/snips-app-keep-quiet\n\nWenn du Ideen oder Verbesserungsvorschläge hast, neue Trainingsdaten oder Funktionen benötigst, oder aber einen Fehler gefunden hast:\nBitte wende dich an mich unter phil@uselessbrickwall.com\n\nOder in englisch direkt an den Entwickler der original App: koen@vervloesem.eu\n\nVielen Dank auch nochmal an Koen für seine Idee und Arbeit! Die original App ist im englischen Store hier zu finden: https://console.snips.ai/store/en/skill_134O6Yb4K6b\n\nDie App gibt es auch in französisch!\nhttps://console.snips.ai/store/fr/skill_8lyE0KYQ1zr\n\nWir freuen uns auf deine Nachrichten und geben unser bestes alle Vorschläge umzusetzen!\nUnd falls dir die App gefällt, lass doch eine Bewertung da :-)",
+  "skillType" : "GITHUB",
+  "intents" : [ {
+    "id" : "intent_9ppWlnvzDwV"
+  }, {
+    "id" : "intent_GYkQdo0bK57"
+  }, {
+    "id" : "intent_GwwKO780YbN"
+  }, {
+    "id" : "intent_Zer1lAlrp82"
+  } ],
+  "id" : "skill_zmmENzQnqaQ",
+  "language" : "de",
+  "imageUrl" : "https://console.snips.ai/images/bundles/bundle-yoga.svg"
+}
